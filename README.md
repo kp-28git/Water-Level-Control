@@ -1,6 +1,6 @@
 # Water-Level-Control
 
-This project implements a **Water Level Control ** using esp32. The system monitors the water level in a tank or reservoir and automatically controls a water pump based on pre-defined thresholds. It can be used in residential, agricultural, or industrial applications to maintain optimal water levels efficiently.
+This project implements a **Water Level Control** using esp32. The system monitors the water level in a tank or reservoir and automatically controls a water pump based on pre-defined thresholds. It can be used in residential, agricultural, or industrial applications to maintain optimal water levels efficiently.
 
 ---
 
