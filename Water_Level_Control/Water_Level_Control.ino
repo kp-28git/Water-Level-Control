@@ -202,28 +202,3 @@ int measurelvl() {
     tanklvl = 0;
   return tanklvl;                     // Return the calculated tank level
 }
-
-/*
-  Event handlers for Arduino IoT Cloud variables
-  These functions are called when their respective variables change.
-*/
-
-void onLevelSVChange()  {
-  // Add your code here to act upon LevelSV change
-}
-
-void onSensorPVChange()  {
-  // Add your code here to act upon SensorPV change
-}
-
-void onModeCloudChange()  {
-  // Add your code here to act upon ModeCloud change
-}
-
-void onPumpChange()  {
-  // Add your code here to act upon Pump change
-}
-
-void onValveChange()  {
-  // Add your code here to act upon Valve change
-}
